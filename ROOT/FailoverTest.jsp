@@ -11,7 +11,7 @@
 
 <h2>
 <font color=#DB1260>
-Project Stage App Test[ <%= java.net.InetAddress.getLocalHost().getCanonicalHostName  () %> ]
+DEV Application Version 1.10 [ <%= java.net.InetAddress.getLocalHost().getCanonicalHostName  () %> ]
 </font>
 </h2>
 
